@@ -7,7 +7,7 @@ public class StudentDetails {
         double scienceMarks;
         double englishMarks;
 
-        studentName = "Rajat Saini";
+        studentName = "Aishana Dogra";
         rollNumber = 37;
         mathMarks = 88.5;
         scienceMarks = 92.0;
